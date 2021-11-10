@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'LaLuxesSerif';
+   font-display: swap;
+   src: url('LaLuxesSerif/font.ttf');
+}
+@font-face {
+   font-family: 'LaLuxesScript';
+   font-display: swap;
+   src: url('LaLuxesScript/font.ttf');
+}
