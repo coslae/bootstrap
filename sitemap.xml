@@ -6,9 +6,6 @@
 		<loc>https://coslae.com/services.html</loc>
 	</url>
 	<url>
-		<loc>https://coslae.com/booking.html</loc>
-	</url>
-	<url>
 		<loc>https://coslae.com/history.html</loc>
 	</url>
 	<url>
@@ -16,5 +13,8 @@
 	</url>
 	<url>
 		<loc>https://coslae.com/about.html</loc>
+	</url>
+	<url>
+		<loc>https://coslae.com/booking.html</loc>
 	</url>
 </urlset>
